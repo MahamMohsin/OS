@@ -1,1 +1,1 @@
-Operating System Lab Tasks
+Ubuntu Operating System Lab Tasks
