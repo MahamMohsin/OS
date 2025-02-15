@@ -1,1 +1,1 @@
-Operating System lab tasks
+Operating System Lab Tasks
